@@ -1,11 +1,9 @@
-# Clean-code-Java
-
-Java Clean code 를 학습하며 기록할 저장소 입니다. <br>
-[클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966260959)를 보며 공부한 내용을 정리합니다.
+## 바쁜 현대인들을 위한 클린 코드 요약본 저장소<br>
+[클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966260959)를 보며 공부한 내용을 요약하고, 가동성 있게 정리한 요약본을 저장합니다.
 
 ## 목차
-1. [인트로](#https://github.com/cyw320712/clean-code-java/src/introduction.md)
-2. [작명법](#작명법)
+1. [인트로](https://github.com/cyw320712/clean-code-java/blob/master/src/introduction.md)
+2. [작명법](https://github.com/cyw320712/clean-code-java/blob/master/src/naming.md)
 3. [함수](#함수)
 4. [주석](#주석)
 5. [형식](#형식)
