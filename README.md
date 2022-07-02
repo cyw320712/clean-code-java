@@ -2,9 +2,12 @@
 [클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966260959)를 보며 공부한 내용을 요약하고, 가동성 있게 정리한 요약본을 저장합니다.
 
 ## 목차
-1. [인트로](https://github.com/cyw320712/clean-code-java/blob/master/src/introduction.md)
-2. [작명법](https://github.com/cyw320712/clean-code-java/blob/master/src/naming.md)
-3. [함수](#함수)
+### 요약 완료
+1. [인트로](https://github.com/cyw320712/clean-code-java/blob/master/src/0.%20introduction.md)
+2. [작명법](https://github.com/cyw320712/clean-code-java/blob/master/src/1.%20naming.md)
+
+### 요약 전
+3. [함수](https://github.com/cyw320712/clean-code-java/blob/master/src/2.%20function.md)
 4. [주석](#주석)
 5. [형식](#형식)
 6. [객체와 자료구조](#객체와-자료구조)
