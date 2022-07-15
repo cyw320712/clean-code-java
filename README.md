@@ -5,9 +5,9 @@
 ### 요약 완료
 1. [인트로](https://github.com/cyw320712/clean-code-java/blob/master/src/0.%20introduction.md)
 2. [작명법](https://github.com/cyw320712/clean-code-java/blob/master/src/1.%20naming.md)
+3. [함수](https://github.com/cyw320712/clean-code-java/blob/master/src/2.%20function.md)
 
 ### 요약 전
-3. [함수](https://github.com/cyw320712/clean-code-java/blob/master/src/2.%20function.md)
 4. [주석](#주석)
 5. [형식](#형식)
 6. [객체와 자료구조](#객체와-자료구조)
