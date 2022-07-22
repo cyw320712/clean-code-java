@@ -1,7 +1,13 @@
 ## 바쁜 현대인들을 위한 클린 코드 요약본 저장소<br>
-[클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966260959)를 보며 공부한 내용을 요약하고, 가동성 있게 정리한 요약본을 저장합니다.
+* 출퇴근 시간에 틈틈이 보기 위해 정리한 요약본입니다.
+* [클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966260959)를 공부하며 요약하고, 가독성 있게 정리했습니다.<br>
+<br>
 
-## 목차
+* 깃헙 앱을 받아서 보시면 더 편합니다.
+  * [안드로이드](https://play.google.com/store/apps/details?id=com.github.android&hl=ko&gl=US)
+  * [iOS](https://apps.apple.com/kr/app/github/id1477376905)
+
+## 링크
 ### 요약 완료
 1. [인트로](https://github.com/cyw320712/clean-code-java/blob/master/src/0.%20introduction.md)
 2. [작명법](https://github.com/cyw320712/clean-code-java/blob/master/src/1.%20naming.md)
