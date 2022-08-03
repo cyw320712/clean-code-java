@@ -13,9 +13,9 @@
 2. [작명법](https://github.com/cyw320712/clean-code-java/blob/master/src/1.%20naming.md)
 3. [함수](https://github.com/cyw320712/clean-code-java/blob/master/src/2.%20function.md)
 4. [주석](https://github.com/cyw320712/clean-code-java/blob/master/src/3.%20comment.md)
+5. [형식](https://github.com/cyw320712/clean-code-java/blob/master/src/4.%20formatting.md)
 
 ### 요약 전
-5. [형식](#형식)
 6. [객체와 자료구조](#객체와-자료구조)
 7. [오류처리](#오류처리)
 8. [경계](#경계)
