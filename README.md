@@ -14,9 +14,9 @@
 3. [함수](https://github.com/cyw320712/clean-code-java/blob/master/src/2.%20function.md)
 4. [주석](https://github.com/cyw320712/clean-code-java/blob/master/src/3.%20comment.md)
 5. [형식](https://github.com/cyw320712/clean-code-java/blob/master/src/4.%20formatting.md)
+6. [객체와 자료구조](https://github.com/cyw320712/clean-code-java/blob/master/src/5.%20object%26datastructure.md)
 
 ### 요약 전
-6. [객체와 자료구조](#객체와-자료구조)
 7. [오류처리](#오류처리)
 8. [경계](#경계)
 9. [단위테스트](#단위테스트)
