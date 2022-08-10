@@ -9,12 +9,12 @@
 
 ## 링크
 ### 요약 완료
-1. [인트로](https://github.com/cyw320712/clean-code-java/blob/master/src/0.%20introduction.md)
-2. [작명법](https://github.com/cyw320712/clean-code-java/blob/master/src/1.%20naming.md)
-3. [함수](https://github.com/cyw320712/clean-code-java/blob/master/src/2.%20function.md)
-4. [주석](https://github.com/cyw320712/clean-code-java/blob/master/src/3.%20comment.md)
-5. [형식](https://github.com/cyw320712/clean-code-java/blob/master/src/4.%20formatting.md)
-6. [객체와 자료구조](https://github.com/cyw320712/clean-code-java/blob/master/src/5.%20object%26datastructure.md)
+1. [인트로](https://github.com/cyw320712/clean-code-java/blob/master/src/1.%20introduction.md)
+2. [작명법](https://github.com/cyw320712/clean-code-java/blob/master/src/2.%20naming.md)
+3. [함수](https://github.com/cyw320712/clean-code-java/blob/master/src/3.%20function.md)
+4. [주석](https://github.com/cyw320712/clean-code-java/blob/master/src/4.%20comment.md)
+5. [형식](https://github.com/cyw320712/clean-code-java/blob/master/src/5.%20formatting.md)
+6. [객체와 자료구조](https://github.com/cyw320712/clean-code-java/blob/master/src/6.%20object%26datastructure.md)
 
 ### 요약 전
 7. [오류처리](#오류처리)
